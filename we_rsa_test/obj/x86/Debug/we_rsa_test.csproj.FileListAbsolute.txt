@@ -1,0 +1,7 @@
+Y:\sdb\workspace\008_wemust\we_rsa\we_rsa_test\we_rsa_test\bin\Debug\we_rsa_test.exe
+Y:\sdb\workspace\008_wemust\we_rsa\we_rsa_test\we_rsa_test\bin\Debug\we_rsa_test.pdb
+Y:\sdb\workspace\008_wemust\we_rsa\we_rsa_test\we_rsa_test\bin\Debug\we_secret.dll
+Y:\sdb\workspace\008_wemust\we_rsa\we_rsa_test\we_rsa_test\bin\Debug\we_secret.pdb
+Y:\sdb\workspace\008_wemust\we_rsa\we_rsa_test\we_rsa_test\obj\x86\Debug\we_rsa_test.csprojResolveAssemblyReference.cache
+Y:\sdb\workspace\008_wemust\we_rsa\we_rsa_test\we_rsa_test\obj\x86\Debug\we_rsa_test.exe
+Y:\sdb\workspace\008_wemust\we_rsa\we_rsa_test\we_rsa_test\obj\x86\Debug\we_rsa_test.pdb
